@@ -1,3 +1,3 @@
-# BusinessArch-ArchTech-DDD-Study
+# BusinessArch-ArchTech
 
-架构的方法：业务架构、技术架构和DDD领域驱动设计，架构之路
+架构的方法：业务架构、技术架构，架构之路
